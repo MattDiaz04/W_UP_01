@@ -31,7 +31,9 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-Pushups are a numerical variable whereas positio is a categorical variable. Therefore, we use num~cat.
+Pushups are a numerical variable whereas position is a categorical variable. Therefore, we use a num~cat helper file.
+
+We want to determine whether pushups based on position is different.
 
 # Results
 
@@ -53,6 +55,7 @@ This graph shows that skill position players can do more pushups in two minutes 
 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
 
 ## Inferential Results
 
